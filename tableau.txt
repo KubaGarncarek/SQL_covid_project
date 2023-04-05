@@ -1,4 +1,4 @@
-In the link below you can find several data visualization created in tableau
+In the link below you can found several data visualization created in tableau
 
 
 https://public.tableau.com/app/profile/jakub.garncarek/viz/CovidProject_16807066333450/Dashboard2?publish=yes
